@@ -1,0 +1,20 @@
+<TestData>
+	
+	<Env>
+	<E2E>
+		<MercuryToursPage>http://newtours.demoaut.com/</MercuryToursPage>
+	</E2E>
+	<PERF>
+		<MercuryToursPage>http://newtours.demoaut.com/</MercuryToursPage>
+	</PERF>
+	<PROD>
+		<MercuryToursPage>http://newtours.demoaut.com/</MercuryToursPage>
+	</PROD>
+	</Env>
+	<FunctionalData>
+ 		<validUserId>mercury</validUserId>
+		<validPassword>mercury</validPassword>
+		 
+		 
+	</FunctionalData>
+</TestData>
